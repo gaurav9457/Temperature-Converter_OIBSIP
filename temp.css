@@ -1,0 +1,40 @@
+body{
+    background-color: #b8c3c5;
+}
+h1{
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-decoration: underline cyan;            
+color: #db1818;
+
+}
+#container{
+text-align: center;
+text-shadow: #000000;
+color: #e7e7e7;
+
+background-color: #0f0704;
+padding: 70px;
+border-radius: 10px;
+box-shadow: 20px 20px 25px rgb(19, 198, 221);
+
+}
+.input-div{
+display: inline-block;
+font-family: "robot mono", monospace;
+font-style: italic;
+
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.inp{
+padding: 5px 10px;
+margin: 10px;
+font-size: 30px;
+font-weight: bold;
+width: 250px;
+text-align: center;
+}
+label{
+font-size: 22px;
+}
